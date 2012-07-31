@@ -1,0 +1,7 @@
+# Ignore node specific entities
+node_modules/
+package.json
+grunt.js
+
+# Ignore OS X Crap
+.DS_Store
